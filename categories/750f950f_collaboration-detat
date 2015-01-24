@@ -7,5 +7,6 @@
 <http://ld.iri-research.org/ontology/categorisation/category#750f950f_collaboration-detat> rdfs:label "Collaboration d'état" ;
     rdf:Description "La collaboration du régime de Vichy avec l'occupant Allemand" ;
     rdf:ID "750f950f_collaboration-detat" ;
+    rdfs:subClassOf <http://ld.iri-research.org/ontology/categorisation/category#da6a76b1_collaboration-politique> ;
     ns1:related <http://ld.iri-research.org/ontology/categorisation/category#b3f33814_collaboration-de-sauvegarde> .
 

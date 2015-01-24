@@ -1,0 +1,11 @@
+@prefix ns1: <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://ld.iri-research.org/ontology/categorisation/category#b89fac3a_antisemitisme> rdfs:label "Antisémitisme" ;
+    rdf:Description "Ségrégation et haine envers les juifs exprimée en France, notamment à la suite des théories de Charles Maurras sur l'antisémitisme d'Etat." ;
+    rdf:ID "b89fac3a_antisemitisme" ;
+    ns1:related <http://ld.iri-research.org/ontology/categorisation/category#750f950f_collaboration-detat> .
+
