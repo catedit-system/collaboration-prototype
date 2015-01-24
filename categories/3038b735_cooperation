@@ -1,0 +1,10 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://ld.iri-research.org/ontology/categorisation/category#3038b735_cooperation> rdfs:label "Coopération" ;
+    rdf:Description "Forme particulière prise par la collaboration dans certains pays (Roumanie) où le Troisième Reich n'avait pas de force occupante à proprement parler." ;
+    rdf:ID "3038b735_cooperation" ;
+    rdfs:subClassOf <http://ld.iri-research.org/ontology/categorisation/category#21557ace_collaboration> .
+

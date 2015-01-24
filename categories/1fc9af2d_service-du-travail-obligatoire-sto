@@ -1,0 +1,11 @@
+@prefix ns1: <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://ld.iri-research.org/ontology/categorisation/category#1fc9af2d_service-du-travail-obligatoire-sto> rdfs:label "Service du Travail Obligatoire (STO)" ;
+    rdf:Description "Réquisition et transfert vers l’Allemagne de centaines de milliers de travailleurs français contre leur gré, afin de participer à l’effort de guerre allemand que les revers militaires contraignaient à être sans cesse grandissant (usines, agriculture, chemins de fer, etc.)." ;
+    rdf:ID "1fc9af2d_service-du-travail-obligatoire-sto" ;
+    ns1:related <http://ld.iri-research.org/ontology/categorisation/category#1e29feb2_collaboration-economique> .
+

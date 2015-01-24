@@ -1,0 +1,12 @@
+@prefix ns1: <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://ld.iri-research.org/ontology/categorisation/category#f851880d_epuration> rdfs:label "Epuration" ;
+    rdf:Description "L’épuration à la Libération en France visait les personnes ayant collaboré avec les autorités d’occupation nazies." ;
+    rdf:ID "f851880d_epuration" ;
+    ns1:related <http://ld.iri-research.org/ontology/categorisation/category#21557ace_collaboration>,
+        <http://ld.iri-research.org/ontology/categorisation/category#e70d4475_resistance> .
+

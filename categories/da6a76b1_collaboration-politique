@@ -1,0 +1,10 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://ld.iri-research.org/ontology/categorisation/category#da6a76b1_collaboration-politique> rdfs:label "Collaboration politique" ;
+    rdf:Description "Sous cette appellation on retrouve les différentes versions qu'a pu prendre la collaboration politique entre les responsables politiques Français et l'occupant." ;
+    rdf:ID "da6a76b1_collaboration-politique" ;
+    rdfs:subClassOf <http://ld.iri-research.org/ontology/categorisation/category#21557ace_collaboration> .
+

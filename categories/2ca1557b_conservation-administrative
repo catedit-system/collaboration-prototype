@@ -1,0 +1,10 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://ld.iri-research.org/ontology/categorisation/category#2ca1557b_conservation-administrative> rdfs:label "Conservation administrative" ;
+    rdf:Description "Variante de la collaboration politique, représentée notamment par René Bousquet, et consistant dans l'idée qu'une collaboration politique permettrait de sauvegarder l'administration Française dans ses fondements, et par là de sauvegarder l’État Français dans une certaine limite." ;
+    rdf:ID "2ca1557b_conservation-administrative" ;
+    rdfs:subClassOf <http://ld.iri-research.org/ontology/categorisation/category#da6a76b1_collaboration-politique> .
+

@@ -1,0 +1,10 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://ld.iri-research.org/ontology/categorisation/category#1f2c6c31_collaboration-pacifiste> rdfs:label "Collaboration pacifiste" ;
+    rdf:Description "Variante de la collaboration politique orientée vers un pacifisme à tout prix, notamment représentée par Pierre Laval." ;
+    rdf:ID "1f2c6c31_collaboration-pacifiste" ;
+    rdfs:subClassOf <http://ld.iri-research.org/ontology/categorisation/category#da6a76b1_collaboration-politique> .
+

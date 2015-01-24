@@ -1,0 +1,10 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://ld.iri-research.org/ontology/categorisation/category#b3f33814_collaboration-de-sauvegarde> rdfs:label "Collaboration de sauvegarde" ;
+    rdf:Description "Représentée par Pétain, cette variante de la collaboration économico-politique avait pour but de sauvegarder à la France une place stratégique en Europe, malgré la défaite." ;
+    rdf:ID "b3f33814_collaboration-de-sauvegarde" ;
+    rdfs:subClassOf <http://ld.iri-research.org/ontology/categorisation/category#1e29feb2_collaboration-economique> .
+

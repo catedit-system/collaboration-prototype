@@ -1,0 +1,9 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://ld.iri-research.org/ontology/categorisation/category#e70d4475_resistance> rdfs:label "Résistance" ;
+    rdf:Description "L'ensemble des mouvements et réseaux clandestins qui durant la Seconde Guerre mondiale ont poursuivi la lutte contre l'Axe et ses relais collaborationnistes sur le territoire français depuis l'armistice du 22 juin 1940 jusqu’à la Libération en 1944." ;
+    rdf:ID "e70d4475_resistance" .
+

@@ -1,0 +1,10 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://ld.iri-research.org/ontology/categorisation/category#800615d9_separatisme> rdfs:label "Séparatisme" ;
+    rdf:Description "Forme de collaboration politique visant à profiter de l'Occupation pour préparer une future autonomie politique : Bretagne, Corse, Flandres..." ;
+    rdf:ID "800615d9_separatisme" ;
+    rdfs:subClassOf <http://ld.iri-research.org/ontology/categorisation/category#da6a76b1_collaboration-politique> .
+
