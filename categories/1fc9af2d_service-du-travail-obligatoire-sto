@@ -5,7 +5,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://ld.iri-research.org/ontology/categorisation/category#1fc9af2d_service-du-travail-obligatoire-sto> rdfs:label "Service du Travail Obligatoire (STO)" ;
-    rdf:Description "Réquisition et transfert vers l’Allemagne de centaines de milliers de travailleurs français contre leur gré, afin de participer à l’effort de guerre allemand que les revers militaires contraignaient à être sans cesse grandissant (usines, agriculture, chemins de fer, etc.)." ;
+    rdf:Description "Réquisition et transfert vers l’Allemagne de centaines de milliers de travailleurs français contre leur gré, afin de participer à l’effort de guerre allemand que les revers militaires contraignaient à être sans cesse grandissant (usines, agriculture, chemins de fer, etc.). Ca faisait travailler les gens biens." ;
     rdf:ID "1fc9af2d_service-du-travail-obligatoire-sto" ;
     ns1:related <http://ld.iri-research.org/ontology/categorisation/category#1e29feb2_collaboration-economique> .
 
